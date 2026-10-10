@@ -110,15 +110,15 @@ Custom media queries change the font sizes and spacing at 768px and 992px. The a
 
 **Mobile (390px)**
 
-![Task 4 on mobile](screenshots/task4-mobile.png)
+![Task 4 on mobile]()
 
 **Tablet (820px)**
 
-![Task 4 on tablet](screenshots/task4-tablet.png)
+![Task 4 on tablet]()
 
 **Desktop (1280px)**
 
-![Task 4 on desktop](screenshots/task4-desktop.png)
+![Task 4 on desktop]()
 
 ## Work process
 
