@@ -3,11 +3,6 @@
 Name: Tolendi Meiirzhan  
 Group: SE-2539
 
-## How to open the project
-
-Open `index.html` in a browser. All tasks are on this page. The portfolio cards link to the task sections.
-Bootstrap is loaded from a CDN, so an internet connection is needed.
-The contact email `tolendi@example.com` is an example address.
 
 ## Part 1: Media Queries
 
